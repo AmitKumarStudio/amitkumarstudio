@@ -19,20 +19,20 @@ Services – List of services offered.<br>
 Contact – Feedback and inquiry forms.<br>
 Feedback – User feedback collection section.<br>
 <br>
-Technologies Used
+Technologies Used:
 <br>
 HTML5 – For structuring content.<br>
 CSS3 – For styling and layout.<br>
 JavaScript – For interactivity and functionality.<br>
 Responsive Design – Mobile-friendly layouts.<br>
 <br>
-How to View the Website
+How to View the Website:
 <br>
 Live Preview (GitHub Pages)
 <br>
-👉 Visit My Website (Replace with your actual URL)
+👉 Visit My Website: https://amitkumarstudio.github.io/amitkumarstudio/
 <br>
-Contact Me
+Contact Me:
 <br>
 If you're looking for a web developer or need website maintenance, feel free to reach out:
 Email: info.amitkumarstudio@gmail.com
@@ -43,7 +43,7 @@ Feedback
 <br>
 Your feedback matters! Visit the Feedback Section on the website and let me know your thoughts.
 <br>
-License
+License:
 <br>
 Copyright © 2025 Amit Kumar. All rights reserved.
 <br>
