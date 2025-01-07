@@ -237,6 +237,8 @@ h1 {
     padding: 10px;
     cursor: default;
     margin-top: 20px;
+    height: max-content;
+    max-height: 600px;
     text-align: center;
     border-radius: 10px;
     background-color: #222429;
@@ -249,6 +251,9 @@ h1 {
 .card h3 {
     font-size: 2rem;
     margin: 5px 0;
+}
+.card p {
+    margin-top: 20px;
 }
 .btn {
     margin-top: 30px;
